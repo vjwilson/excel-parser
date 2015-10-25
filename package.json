@@ -1,0 +1,23 @@
+{
+  "name": "excel-parser",
+  "version": "0.0.1",
+  "description": "Parses an Excel (.xlsx) file in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjwilson/excel-parser.git"
+  },
+  "keywords": [
+    "javascript",
+    "excel"
+  ],
+  "author": "Van J. Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjwilson/excel-parser/issues"
+  },
+  "homepage": "https://github.com/vjwilson/excel-parser#readme"
+}
